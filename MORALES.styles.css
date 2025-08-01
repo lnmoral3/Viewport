@@ -307,12 +307,12 @@ img{
 /* --------------- BEGIN RESPONSIVE IMAGE ADJUST SIZES --------------- */
 @media (max-width: 620px) {
     img{
-        width: 300px;
-        max-width: 300px;
+        width: 500px;
+        max-width: 500px;
     } 
 }
 
-@media (min-width: 621px) and (max-width: 1379px) {
+@media (min-width: 620px) and (max-width: 1380px) {
     img {
         max-width: 200px;
     }
@@ -324,7 +324,6 @@ img{
     }
 }
 /* --------------- END RESPONSIVE IMAGE ADJUST SIZES --------------- */
-
 
 
 /* ---------- EXTRA LARGE SCREEN STYLES ---------- */
