@@ -314,12 +314,14 @@ img{
 
 @media (min-width: 620px) and (max-width: 1380px) {
     img {
+        width: 200px;
         max-width: 200px;
     }
 }
 
 @media (min-width: 1380px) {
     img {
+        width: 300px;
         max-width: 300px;
     }
 }
